@@ -19,16 +19,26 @@
       "dateAdded": "2025-12-25T21:22:39.276Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "4904747",
+      "taskLink": "https://unu.im/tasks/share/mgucrhov-4904747",
+      "taskType": "Telegram",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2025-12-25T21:23:33.228Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-12-25T21:22:39.276Z",
-    "totalTasks": 2,
+    "lastUpdated": "2025-12-25T21:23:33.228Z",
+    "totalTasks": 3,
     "completedTasks": 0,
-    "totalRevenueRUB": 2.08,
-    "totalRevenueUSD": 0.024960000000000003,
+    "totalRevenueRUB": 3.3600000000000003,
+    "totalRevenueUSD": 0.04032,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-12-25T21:22:39.276Z"
+    "exchangeRateLastUpdated": "2025-12-25T21:23:33.228Z"
   },
   "taskTypes": [
     "VKontakte",
